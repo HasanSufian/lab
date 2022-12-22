@@ -1,6 +1,6 @@
 # 🔬🧪 Le laboratoire
 
-Ce projet rassemble mes expérimentations frontend. Il contient des essais d'animations, des expériences WebGL, des essais d'api et bien d'autres choses encore.
+This project brings together my frontend experiments. It contains animation tests, WebGL experiments, API tests and much more.
 
 ## Installation
 
@@ -8,14 +8,14 @@ Ce projet rassemble mes expérimentations frontend. Il contient des essais d'ani
 npm install
 ```
 
-## Développement
+## Development
 
-1. Créer un dossier dans le dossier `src` avec à sa racine un fichier `index.js` et un fichier `index.html` Le nom de ce dossier détermine le slug de la page.
+1. Create a folder in the `src` folder with an `index.js` file and an `index.html` file at its root. The name of this folder determines the slug of the page.
 
-2. Ajouter au fichier html un tag `<title>MON TITRE</title>` qui deviendra le nom de l'expérimentation sur la page d'accueil.
+2. Add to the html file a tag `<title>MY TITLE</title>` which will become the name of the experiment on the home page.
 
-3. Ajouter une meta `<meta name="category" content="MA CATÉGORIE">` pour déterminer la catégorie de l'expérimentation sur la page d'accueil.
+3. Add a meta `<meta name="category" content="MY CATEGORY">` to determine the category of the experiment on the home page.
 
-4. Importer les fichiers de style dans le fichier `index.js`.
+4. Import style files into the `index.js` file.
 
-5. Lancer le projet avec `npm run start`.
+5. Launch the project with `npm run start`.

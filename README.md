@@ -1,4 +1,4 @@
-# 🔬🧪 Le laboratoire
+# 🔬🧪 The laboratory
 
 This project brings together my frontend experiments. It contains animation tests, WebGL experiments, API tests and much more.
 
